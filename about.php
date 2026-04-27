@@ -1,90 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-		<!-- Meta -->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Learn how Concept Global IT combines business understanding, finance expertise, and technology services to build scalable digital systems for modern companies.">
-		<meta name="keywords" content="about Concept Global IT, business-focused IT company, technology solutions partner, IT consulting company, digital systems provider">		
-		<!-- SITE TITLE -->
-		<title>About Concept Global IT | Business-Focused Technology Solutions</title>			
-		<!-- Latest Bootstrap min CSS -->
-		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
-		<!-- Google Font -->
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800"> 
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600">			
-		<!-- Font Awesome CSS -->
-		<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/fonts/themify-icons.css">
-		<!--- owl carousel Css-->
-		<link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/owlcarousel/css/owl.theme.css">
-		<!--materialdesignicons Css-->
-        <link rel="stylesheet" href="assets/css/fonts.css">		
-		<!-- animate CSS -->
-		<link rel="stylesheet" href="assets/css/animate.css">				
-		<!-- MAGNIFIC CSS -->
-		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
-		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css">			
-		<link rel="stylesheet" href="assets/css/style.css">			
-		<link rel="stylesheet" href="assets/css/responsive.css">			
-		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-	</head>
-	
-    <body data-spy="scroll" data-offset="80">
-
-		<!-- START PRELOADER -->
-		<div class="preloader">
-			<div class="spinner">
-				<div class="double-bounce1"></div>
-				<div class="double-bounce2"></div>
-			</div>
-		</div>
-		<!-- END PRELOADER -->		
-
-		 <!-- START NAVBAR -->
-		<div class="site-mobile-menu site-navbar-target">
-		  <div class="site-mobile-menu-header">
-			<div class="site-mobile-menu-close mt-3">
-			  <span class="icon-close2 js-menu-toggle"></span>
-			</div>
-		  </div>
-		  <div class="site-mobile-menu-body"></div>
-		</div>
-	   
-		<header class="site-navbar js-sticky-header site-navbar-target" role="banner">
-		  <div class="container">
-			<div class="row align-items-center">       
-			  <div class="col-6 col-xl-2">
-				<h1 class="mb-0 site-logo"><a href="index.html"><img src="assets/img/logo.png" alt="Concept Global Infotech" style="max-height: 70px;"></a></h1>
-			  </div>
-			  <div class="col-12 col-md-10 d-none d-xl-block">
-				<nav class="site-navigation position-relative text-right" role="navigation">
-				  <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-					<li><a href="index.html" class="nav-link">Home</a></li>	
-					<li><a class="nav-link" href="about.html">About</a></li>
-					<li><a class="nav-link" href="service.html">Services</a></li>
-					<li><a class="nav-link" href="industries.html">Industries</a></li>
-			        <li><a class="nav-link" href="contact.html">Contact</a></li>					
-				  </ul>
-				</nav>
-			  </div>
-			   <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;">
-			   <a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a>
-			   </div>
-			</div>
-		  </div>
-		</header>
-	   <!-- END NAVBAR-->								
+<?php 
+$page_title = 'About Concept Global IT | Business-Focused Technology Solutions'; 
+$meta_description = 'Learn how Concept Global IT combines business understanding, finance expertise, and technology services to build scalable digital systems for modern companies.'; 
+$meta_keywords = 'about Concept Global IT, business-focused IT company, technology solutions partner, IT consulting company, digital systems provider'; 
+include 'header.php'; 
+?>								
 		
 		<!-- START SECTION TOP -->
 		<section class="section-top" style="background-image: url(assets/img/bg/about-header.jpg);background-size:cover; background-position: center center;">
@@ -273,7 +192,7 @@
 								<div class="hire_content">
 									<h2>Want to work with us?</h2>
 									<p>Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet consectetur elit.</p>
-									<a class="btn_one" href="contact.html">Contact us</a>
+									<a class="btn_one" href="contact.php">Contact us</a>
 								</div>
 							</div><!-- END COL  -->		
 						</div><!-- END ROW -->	
@@ -358,91 +277,4 @@
 		</div>
 		<!-- END PARTNER LOGO -->
 		
-		<!-- START FOOTER -->
-		<div class="footer" style="background-image: url(assets/img/bg/footer.png);  background-size:cover;">
-						<div class="container">		
-				<div class="row footer_bg">						
-					<div class="col-lg-3 col-sm-6 col-xs-12">
-						<div class="footer_logo">
-							<img src="assets/img/logo.png" alt="Concept Global Infotech Logo" style="max-height: 70px; margin-bottom: 20px;">
-							<p>Concept Global Infotech builds practical, scalable, and business-focused technology solutions that help companies grow with confidence.</p>
-						</div>
-						<div class="social_profile">
-							<ul>
-								<li><a href="#" class="f_facebook"><i class="fa fa-facebook" title="Facebook"></i></a></li>
-								<li><a href="#" class="f_twitter"><i class="fa fa-youtube" title="Twitter"></i></a></li>
-								<li><a href="#" class="f_instagram"><i class="fa fa-instagram" title="Instagram"></i></a></li>
-								<li><a href="#" class="f_linkedin"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
-							</ul>
-						</div>							
-					</div><!--- END COL -->						
-					<div class="col-lg-4 col-sm-6 col-xs-12">
-						<div class="single_footer">
-							<h4>Frequently Asked Questions</h4>
-							<ul>
-								<li><a href="#">Privacy & Securty</a></li>
-								<li><a href="#">Terms of Service</a></li>
-								<li><a href="#">Communications</a></li>
-								<li><a href="#">Referral Terms</a></li>
-								<li><a href="#">Disclaimers</a></li>
-							</ul>
-						</div>
-					</div><!--- END COL -->	
-
-					<div class="col-lg-5 col-sm-6 col-xs-12">
-						<div class="newsletter-form">
-							<h4>Subscribe for get updates</h4>
-							 <form id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
-								<div class="input-group input-group-lg newsletter">
-									<input type="email" name="EMAIL" class="subscribe__input" placeholder="Email Address">
-									<button type="submit" class="subs_btn">Subscribe</button>
-								</div>
-								
-								<div id="mce-responses">
-									<div class="response" id="mce-error-response" style="display:none"></div>
-									<div class="response" id="mce-success-response" style="display:none"></div>
-								</div>
-							</form>
-						</div>
-					</div><!--- END COL -->		
-				</div><!--- END ROW -->		
-				<div class="row">
-					<div class="col-lg-12 text-center">
-						<div class="footer_copyright">
-							<p>&copy; 2026 Concept Global Infotech. All Rights Reserved.</p>
-						</div>
-					</div>
-				</div>				
-			</div><!--- END CONTAINER -->
-		</div>
-		<!-- END FOOTER -->	
-
-		<!-- Latest jQuery -->
-			<script src="assets/js/jquery-1.12.4.min.js"></script>
-		<!-- Latest compiled and minified Bootstrap -->
-			<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-		<!-- modernizer JS -->		
-			<script src="assets/js/modernizr-2.8.3.min.js"></script>																		
-		<!-- owl-carousel min js  -->
-			<script src="assets/owlcarousel/js/owl.carousel.min.js"></script>					
-		<!-- magnific-popup js -->               
-			<script src="assets/js/jquery.magnific-popup.min.js"></script>			
-		<!-- jquery mixitup js -->   
-			<script src="assets/js/jquery.mixitup.js"></script>			
-		<!-- jquery appear js -->
-			<script src="assets/js/jquery.appear.js"></script>							
-		<!-- countTo js -->
-			<script src="assets/js/jquery.inview.min.js"></script>	
-		<!-- stellar js -->
-			<script src="assets/js/jquery.stellar.min.js"></script>			
-		<!-- WOW - Reveal Animations When You Scroll -->
-			<script src="assets/js/wow.min.js"></script>	
-		<!-- Menu js -->
-			<script src="assets/js/menu.js"></script>																				
-			<script src="assets/js/jquery.sticky.js"></script>			
-		<!-- scrolltopcontrol js -->																				
-			<script src="assets/js/scrolltopcontrol.js"></script>																				
-		<!-- scripts js -->
-			<script src="assets/js/scripts.js"></script>		
-    </body>
-</html>
+		<?php include 'footer.php'; ?>

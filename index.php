@@ -1,90 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-		<!-- Meta -->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Concept Global IT delivers custom software, business automation, cloud solutions, data analytics, websites, and support services to help companies grow faster and work smarter.">
-		<meta name="keywords" content="Concept Global IT, IT services company, custom software, business automation, cloud solutions, data analytics, website development, IT support">		
-		<!-- SITE TITLE -->
-		<title>Concept Global IT Services | Custom Software, Automation & Cloud Solutions</title>			
-		<!-- Latest Bootstrap min CSS -->
-		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
-		<!-- Google Font -->
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800"> 
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600">			
-		<!-- Font Awesome CSS -->
-		<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/fonts/themify-icons.css">
-		<!--- owl carousel Css-->
-		<link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/owlcarousel/css/owl.theme.css">
-		<!--materialdesignicons Css-->
-        <link rel="stylesheet" href="assets/css/fonts.css">		
-		<!-- animate CSS -->
-		<link rel="stylesheet" href="assets/css/animate.css">					
-		<!-- MAGNIFIC CSS -->
-		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
-		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css">			
-		<link rel="stylesheet" href="assets/css/style.css">			
-		<link rel="stylesheet" href="assets/css/responsive.css">			
-		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-	</head>
-	
-    <body data-spy="scroll" data-offset="80">
-
-		<!-- START PRELOADER -->
-		<div class="preloader">
-			<div class="spinner">
-				<div class="double-bounce1"></div>
-				<div class="double-bounce2"></div>
-			</div>
-		</div>
-		<!-- END PRELOADER -->		
-
-		 <!-- START NAVBAR -->
-		<div class="site-mobile-menu site-navbar-target">
-		  <div class="site-mobile-menu-header">
-			<div class="site-mobile-menu-close mt-3">
-			  <span class="icon-close2 js-menu-toggle"></span>
-			</div>
-		  </div>
-		  <div class="site-mobile-menu-body"></div>
-		</div>
-	   
-		<header class="site-navbar js-sticky-header site-navbar-target" role="banner">
-		  <div class="container">
-			<div class="row align-items-center">       
-			  <div class="col-6 col-xl-2">
-				<h1 class="mb-0 site-logo"><a href="index.html"><img src="assets/img/logo.png" alt="Concept Global Infotech" style="max-height: 70px;"></a></h1>
-			  </div>
-			  <div class="col-12 col-md-10 d-none d-xl-block">
-				<nav class="site-navigation position-relative text-right" role="navigation">
-				  <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-					<li><a href="index.html" class="nav-link">Home</a></li>	
-					<li><a class="nav-link" href="about.html">About</a></li>
-					<li><a class="nav-link" href="service.html">Services</a></li>
-					<li><a class="nav-link" href="industries.html">Industries</a></li>
-			        <li><a class="nav-link" href="contact.html">Contact</a></li>					
-				  </ul>
-				</nav>
-			  </div>
-			   <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;">
-			   <a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a>
-			   </div>
-			</div>
-		  </div>
-		</header>
-	   <!-- END NAVBAR-->				
+<?php 
+$page_title = 'Concept Global IT Services | Custom Software, Automation & Cloud Solutions'; 
+$meta_description = 'Concept Global IT delivers custom software, business automation, cloud solutions, data analytics, websites, and support services to help companies grow faster and work smarter.'; 
+$meta_keywords = 'Concept Global IT, IT services company, custom software, business automation, cloud solutions, data analytics, website development, IT support'; 
+include 'header.php'; 
+?>				
 	
 		<!-- START HOME -->
 		<section id="home" class="home_video html-video">
@@ -95,7 +14,7 @@
 			<div class="hero-text slider-caption text-center">
 				<h2>Build Smarter Systems. Grow Faster.</h2>
 				<p>Technology backed by deep business understanding. We build practical systems that scale with your growth.</p>
-				<a href="contact.html">Get a Free Consultation</a>		
+				<a href="contact.php">Get a Free Consultation</a>		
 			</div> 			
 		</section>
 		<!-- END  HOME -->	
@@ -228,7 +147,7 @@
 						<div class="single_why_choose">
 							<h2>Technology Backed <br /> by Business <br /> Understanding</h2>
 							<p>At Concept Global Infotech, we understand that technology is a means to an end. Before we write a single line of code, we work to understand your business operations, finance workflows, and growth goals. Our solutions are designed to be practical, secure, and scalable, ensuring they deliver real-world value from day one.</p>
-							<a class="btn_one" href="about.html">Learn More</a>
+							<a class="btn_one" href="about.php">Learn More</a>
 						</div>							
 					</div><!--- END COL -->	
 					<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
@@ -265,62 +184,62 @@
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/automation.jpg" class="img-fluid" alt="Automated Reporting">
 								<a href="assets/img/portfolio/automation.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Automated Reporting</a></h4>
+								<h4><a href="portfolio.php">Automated Reporting</a></h4>
 							</div>
 						</div><!-- End Col -->
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix cloud">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/cloud.jpg" class="img-fluid" alt="Cloud Migration">
 								<a href="assets/img/portfolio/cloud.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Cloud Migration</a></h4>
+								<h4><a href="portfolio.php">Cloud Migration</a></h4>
 							</div>
 						</div><!-- End Col -->	
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix software">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/software.jpg" class="img-fluid" alt="Custom Software">
 								<a href="assets/img/portfolio/software.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Custom Software</a></h4>
+								<h4><a href="portfolio.php">Custom Software</a></h4>
 							</div>
 						</div><!-- End Col -->
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix security">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/security.jpg" class="img-fluid" alt="Cybersecurity">
 								<a href="assets/img/portfolio/security.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Cybersecurity</a></h4>
+								<h4><a href="portfolio.php">Cybersecurity</a></h4>
 							</div>
 						</div><!-- End Col -->
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix software">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/erp.jpg" class="img-fluid" alt="ERP Integration">
 								<a href="assets/img/portfolio/erp.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">ERP Integration</a></h4>
+								<h4><a href="portfolio.php">ERP Integration</a></h4>
 							</div>
 						</div><!-- End Col -->
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix software cloud">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/mobile-app.jpg" class="img-fluid" alt="Mobile Solutions">
 								<a href="assets/img/portfolio/mobile-app.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Mobile Solutions</a></h4>
+								<h4><a href="portfolio.php">Mobile Solutions</a></h4>
 							</div>
 						</div><!-- End Col -->	
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix security">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/support.jpg" class="img-fluid" alt="Managed Support">
 								<a href="assets/img/portfolio/support.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Managed Support</a></h4>
+								<h4><a href="portfolio.php">Managed Support</a></h4>
 							</div>
 						</div><!-- End Col -->
 						<div class="col-lg-3 col-sm-6 col-xs-12 portfolio-item mix automation">
 							<div class="single-gallery">
 								<img src="assets/img/portfolio/logistics.jpg" class="img-fluid" alt="Logistics Optimization">
 								<a href="assets/img/portfolio/logistics.jpg" class="gallery_enlarge_icon"><i class="ti-eye"></i></a>
-								<h4><a href="portfolio.html">Logistics Optimization</a></h4>
+								<h4><a href="portfolio.php">Logistics Optimization</a></h4>
 							</div>
 						</div><!-- End Col -->									
 					</div><!-- END ROW -->
 					<div class="col-lg-12 text-center">
 						<div class="portfolio_btn">
-							<a class="btn_one" href="portfolio.html">View More Stories</a>
+							<a class="btn_one" href="portfolio.php">View More Stories</a>
 						</div>
 					</div><!-- END Col -->
 				</div>
@@ -520,93 +439,4 @@
 		</div>
 		<!-- END PARTNER LOGO -->
 		
-		<!-- START FOOTER -->
-		<div class="footer" style="background-image: url(assets/img/bg/footer.png);  background-size:cover;">
-			<div class="container">		
-				<div class="row footer_bg">						
-					<div class="col-lg-3 col-sm-6 col-xs-12">
-						<div class="footer_logo">
-							<img src="assets/img/logo.png" alt="Concept Global Infotech Logo" style="max-height: 70px; margin-bottom: 20px;">
-							<p>Concept Global Infotech builds practical, scalable, and business-focused technology solutions that help companies grow with confidence.</p>
-						</div>
-						<div class="social_profile">
-							<ul>
-								<li><a href="#" class="f_facebook"><i class="fa fa-facebook" title="Facebook"></i></a></li>
-								<li><a href="#" class="f_twitter"><i class="fa fa-youtube" title="Twitter"></i></a></li>
-								<li><a href="#" class="f_instagram"><i class="fa fa-instagram" title="Instagram"></i></a></li>
-								<li><a href="#" class="f_linkedin"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
-							</ul>
-						</div>							
-					</div><!--- END COL -->						
-					<div class="col-lg-4 col-sm-6 col-xs-12">
-						<div class="single_footer">
-							<h4>Frequently Asked Questions</h4>
-							<ul>
-								<li><a href="#">Privacy & Securty</a></li>
-								<li><a href="#">Terms of Service</a></li>
-								<li><a href="#">Communications</a></li>
-								<li><a href="#">Referral Terms</a></li>
-								<li><a href="#">Disclaimers</a></li>
-							</ul>
-						</div>
-					</div><!--- END COL -->	
-
-					<div class="col-lg-5 col-sm-6 col-xs-12">
-						<div class="newsletter-form">
-							<h4>Subscribe for get updates</h4>
-							 <form id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
-								<div class="input-group input-group-lg newsletter">
-									<input type="email" name="EMAIL" class="subscribe__input" placeholder="Email Address">
-									<button type="submit" class="subs_btn">Subscribe</button>
-								</div>
-								
-								<div id="mce-responses">
-									<div class="response" id="mce-error-response" style="display:none"></div>
-									<div class="response" id="mce-success-response" style="display:none"></div>
-								</div>
-							</form>
-						</div>
-					</div><!--- END COL -->		
-				</div><!--- END ROW -->		
-				<div class="row">
-					<div class="col-lg-12 text-center">
-						<div class="footer_copyright">
-							<p>&copy; 2026 Concept Global Infotech. All Rights Reserved.</p>
-						</div>
-					</div>
-				</div>				
-			</div><!--- END CONTAINER -->
-		</div>
-		<!-- END FOOTER -->	
-
-		<!-- Latest jQuery -->
-			<script src="assets/js/jquery-1.12.4.min.js"></script>
-		<!-- Latest compiled and minified Bootstrap -->
-			<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-		<!-- modernizer JS -->		
-			<script src="assets/js/modernizr-2.8.3.min.js"></script>																		
-		<!-- owl-carousel min js  -->
-			<script src="assets/owlcarousel/js/owl.carousel.min.js"></script>					
-		<!-- magnific-popup js -->               
-			<script src="assets/js/jquery.magnific-popup.min.js"></script>			
-		<!-- jquery mixitup js -->   
-			<script src="assets/js/jquery.mixitup.js"></script>			
-		<!-- jquery appear js -->
-			<script src="assets/js/jquery.appear.js"></script>							
-		<!-- countTo js -->
-			<script src="assets/js/jquery.inview.min.js"></script>	
-		<!-- stellar js -->
-			<script src="assets/js/jquery.stellar.min.js"></script>			
-		<!-- WOW - Reveal Animations When You Scroll -->
-			<script src="assets/js/wow.min.js"></script>	
-		<!-- Menu js -->
-			<script src="assets/js/menu.js"></script>																				
-			<script src="assets/js/jquery.sticky.js"></script>		
-		<!-- form contact js -->																				
-			<script src="assets/js/form-contact.js"></script>				
-		<!-- scrolltopcontrol js -->																				
-			<script src="assets/js/scrolltopcontrol.js"></script>																				
-		<!-- scripts js -->
-			<script src="assets/js/scripts.js"></script>		
-    </body>
-</html>
+		<?php include 'footer.php'; ?>

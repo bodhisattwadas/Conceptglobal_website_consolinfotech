@@ -22,8 +22,8 @@ $(function() {
         $this.prepend('<span class="arrow-collapse collapsed">');
 
         $this.find('.arrow-collapse').attr({
-          'data-toggle' : 'navbar-collapse',
-          'data-target' : '#collapseItem' + counter,
+          'data-bs-toggle' : 'collapse',
+          'data-bs-target' : '#collapseItem' + counter,
         });
 
         $this.find('> ul').attr({

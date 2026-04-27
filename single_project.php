@@ -1,71 +1,90 @@
 <?php 
-$page_title = 'Contact Concept Global IT | Get a Free Consultation'; 
-$meta_description = 'Talk to Concept Global IT about custom software, automation, analytics, cloud systems, websites, or support services for your business.'; 
-$meta_keywords = 'contact IT company, free IT consultation, software development inquiry, automation services contact, business technology support'; 
+$page_title = 'Monoline - Design Agency HTML Template'; 
+$meta_description = 'Monoline - Design Agency HTML Template'; 
+$meta_keywords = 'agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup '; 
 include 'header.php'; 
-?>							
+?>				
 		
 		<!-- START SECTION TOP -->
-		<section class="section-top" style="background-image: url(assets/img/bg/contact-header.jpg);background-size:cover; background-position: center center;">
+		<section class="section-top" style="background-image: url(assets/img/bg/section-top.png);background-size:cover; background-position: center center;">
 			<div class="container">
 				<div class="row">
 				  <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
 					<div class="section-top-title">
-						<h1>Get In Touch</h1>
+						<h1>SIngle Project Details</h1>		
 					</div>
 				  </div><!--- END COL -->				  
 				</div><!--- END ROW -->
 			</div><!--- END CONTAINER -->
 		</section>
 		<!-- END SECTION TOP -->
-		
-		<!-- START ADDRESS -->
-		<section class="address_area section-padding">
+
+		<!-- START PORTFOLIO SINGLE PROJECT -->
+		<section class="single_project_area section-padding">	
 			<div class="container">
-				<div class="row">
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
-					<div class="single_address">
-						<h4>Mumbai HQ</h4>
-						<p class="mr_20">Concept Global Business Center, <br /> Mumbai, India</p>
-						<p><a href="mailto:it@conceptglobal.co.in">it@conceptglobal.co.in</a></p>
-					</div>
-				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
-					<div class="single_address">
-						<h4>US Roots</h4>
-						<p class="mr_20">Strategic Support & <br /> Client Relations</p>
-						<p><a href="mailto:support@conceptglobal.co.in">support@conceptglobal.co.in</a></p>
-					</div>
-				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
-					<div class="single_address">
-						<h4>Quick Contact</h4>
-						<p class="mr_20">Available for <br /> Consultations</p>
-						<p><a href="mailto:info@conceptglobal.co.in">info@conceptglobal.co.in</a></p>
-					</div>
-				  </div><!--- END COL -->				  
+				<div class="row project_dec">
+					<div class="col-lg-6 col-sm-12 col-xs-12">
+						<div class="media-left">
+							<img src="assets/img/portfolio/2.jpg" class="img-fluid" alt="portfolio-image" />		
+						</div>
+						</div>
+						<div class="col-lg-6 col-sm-12 col-xs-12">
+							<div class="project_details">
+								<div class="about_project">
+									<h4>About Project</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet.</p>
+								</div>
+								<div class="about_project_details">
+									<ul>
+										<li><i class="fa fa-user"></i><b>Client: </b>Google, Inc</li>
+										<li><i class="fa fa-clock-o"></i><b>Date: </b>01 Sep, 2026</li>
+										<li><i class="fa fa-folder"></i><b>Category: </b><a href="#">Web Design</a></li>
+										<li><i class="fa fa-folder"></i><b>Project Url: </b><a href="#">www.google.com</a></li>
+									</ul>
+								</div>
+								<a class="btn_one" href="#">See Live Project</a>
+							</div>
+						</div><!--- END COL -->
+				</div><!--- END ROW -->
+				<div class="row project_dec">
+					<div class="col-lg-6 col-sm-12 col-xs-12">
+						<div class="media-left">
+							<img src="assets/img/portfolio/2.jpg" class="img-fluid" alt="portfolio-image" />		
+						</div>
+						</div>
+						<div class="col-lg-6 col-sm-12 col-xs-12">
+							<div class="project_details">
+								<div class="about_project">
+									<h4>About Project</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet.</p>
+								</div>
+								<div class="about_project_details">
+									<ul>
+										<li><i class="fa fa-user"></i><b>Client: </b>Google, Inc</li>
+										<li><i class="fa fa-clock-o"></i><b>Date: </b>02 Sep, 2026</li>
+										<li><i class="fa fa-folder"></i><b>Category: </b><a href="#">Web Design</a></li>
+										<li><i class="fa fa-folder"></i><b>Project Url: </b><a href="#">www.google.com</a></li>
+									</ul>
+								</div>
+								<a class="btn_one" href="#">See Live Project</a>
+							</div>
+						</div><!--- END COL -->
 				</div><!--- END ROW -->
 			</div><!--- END CONTAINER -->
-		</section>
-		<!-- END ADDRESS -->
+		</section>	
+		<!-- END PORTFOLIO SINGLE PROJECT -->
 		
-		<!-- START MAP -->
-		<div class="map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.957183635167!2d-74.00402768559431!3d40.71895904512855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598a1316e7a7%3A0x47bb20eb6074b3f0!2sNew%20Work%20City%20-%20(CLOSED)!5e0!3m2!1sbn!2sbd!4v1600305497356!5m2!1sbn!2sbd" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-		</div>	
-		<!-- START MAP -->		
-
 		<!-- CONTACT -->
 		<div id="contact" class="contact_area section-padding">
 			<div class="container">
 				<div class="section-title text-center">
-					<h2 class="section-title-white">Let’s Build Something That Works</h2>
-					<p class="section-title-white">Share your goals with our team and discover the right technology solution for your business, operations, and growth plans.</p>
+					<h2 class="section-title-white">Get in touch.</h2>
+					<p class="section-title-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
 				</div>				
 				<div class="row">					
 					<div class="offset-lg-1 col-lg-10 col-sm-12 col-xs-12 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="contact">
-							<form id="contact-form" method="post" enctype="multipart/form-data">
+							<form class="form" name="enq" method="post" action="contact.php" onsubmit="return validation();">
 								<div class="row">
 									<div class="form-group col-md-6">
 										<input type="text" name="name" class="form-control" placeholder="Name" required="required">
