@@ -22,68 +22,70 @@ include 'header.php';
 		<!-- FEATURES -->
 		<section class="feature_area">
 			<div class="container">	
-				<div class="row feature_bg">
-					<div class="section-title text-center">		
-						<h2>IT Services Designed Around Your Business</h2>
-						<p>We combine business understanding with technical expertise to deliver systems that reduce friction and improve growth.</p>
+				<div class="row feature_bg gy-4">
+					<div class="col-lg-12 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+						<div class="section-title text-center mb-5">		
+							<h2>IT Services Designed Around Your Business</h2>
+							<p>We combine business understanding with technical expertise to deliver systems that reduce friction and improve growth.</p>
+						</div>
 					</div>					
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/web.png" alt="icon" />
 							<h4>Custom Software</h4>
 							<p>Build custom software and web applications tailored to your workflows, reporting needs, and business goals.</p>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/strategy.png" alt="icon" />
 							<h4>Process Automation</h4>
 							<p>Automate approvals, invoicing, payroll workflows, and data sync to improve speed, accuracy, and efficiency.</p>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/photo.png" alt="icon" />
 							<h4>Mobile App Development</h4>
 							<p>Create reliable mobile apps for ordering, booking, notifications, and customer engagement.</p>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/brand.png" alt="icon" />
 							<h4>Cloud Solutions</h4>
 							<p>Move to secure, scalable cloud systems with migration, storage, backup, and cloud support services.</p>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/design.png" alt="icon" />
 							<h4>Data Analytics</h4>
 							<p>Turn raw business data into useful dashboards, reports, and decision-ready insights.</p>
 						</div>
 					</div><!-- END COL -->		
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/research.png" alt="icon" />
 							<h4>IT Support</h4>
 							<p>Keep your systems running smoothly with ongoing monitoring, performance improvements, and dependable support.</p>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/search.png" alt="icon" />
 							<h4>Cybersecurity</h4>
 							<p>Protect your digital assets with advanced security measures, data privacy protocols, and compliance monitoring.</p>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/cart.png" alt="icon" />
 							<h4>E-commerce Solutions</h4>
 							<p>Build robust, scalable online stores with seamless payment integrations and optimized user journeys.</p>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/strategy.png" alt="icon" />
 							<h4>Digital Strategy</h4>

@@ -109,7 +109,7 @@ include 'header.php';
 		<!-- END COUNTER-->	
 
 		<!-- START TEAM MEMBERS -->
-		<section id="team" class="team_area section-padding">
+		<!-- <section id="team" class="team_area section-padding">
 			<div class="container">								
 				<div class="section-title text-center">
 					<h2>Brilliant team</h2>
@@ -128,8 +128,8 @@ include 'header.php';
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	
+						</div>	
+					</div>
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
@@ -142,8 +142,8 @@ include 'header.php';
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	
+						</div>	
+					</div>
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
@@ -156,8 +156,8 @@ include 'header.php';
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->
+						</div>
+					</div>
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
@@ -170,11 +170,11 @@ include 'header.php';
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	  
-				</div><!--- END ROW -->			
-			</div><!--- END CONTAINER -->
-		</section>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> -->
 		<!-- END TEAM MEMBERS -->		
 		
 		<!-- HIRE US -->
