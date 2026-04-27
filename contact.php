@@ -50,10 +50,14 @@ include 'header.php';
 		<!-- END ADDRESS -->
 		
 		<!-- START MAP -->
-		<div class="map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.957183635167!2d-74.00402768559431!3d40.71895904512855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598a1316e7a7%3A0x47bb20eb6074b3f0!2sNew%20Work%20City%20-%20(CLOSED)!5e0!3m2!1sbn!2sbd!4v1600305497356!5m2!1sbn!2sbd" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+		<div class="container mb-5">
+			<div class="map-wrapper" style="border: 1px solid #eee; padding: 10px; border-radius: 15px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+				<div class="map" style="border-radius: 10px; overflow: hidden; height: 450px;">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.957183635167!2d-74.00402768559431!3d40.71895904512855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598a1316e7a7%3A0x47bb20eb6074b3f0!2sNew%20Work%20City%20-%20(CLOSED)!5e0!3m2!1sbn!2sbd!4v1600305497356!5m2!1sbn!2sbd" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				</div>
+			</div>
 		</div>	
-		<!-- START MAP -->		
+		<!-- END MAP -->	
 
 		<!-- CONTACT -->
 		<div id="contact" class="contact_area section-padding">
