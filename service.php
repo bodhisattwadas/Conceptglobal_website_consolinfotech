@@ -23,7 +23,7 @@ include 'header.php';
 		<section class="service_area section-padding">
 			<div class="container">				
 				<div class="row text-center">					
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/web.png" alt="icon" />
 							<h4>Custom Software</h4>
@@ -31,7 +31,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/strategy.png" alt="icon" />
 							<h4>Business Automation</h4>
@@ -39,7 +39,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/photo.png" alt="icon" />
 							<h4>Mobile App Development</h4>
@@ -47,7 +47,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/brand.png" alt="icon" />
 							<h4>Cloud Solutions</h4>
@@ -55,7 +55,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/design.png" alt="icon" />
 							<h4>Data Analytics</h4>
@@ -63,7 +63,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->		
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/research.png" alt="icon" />
 							<h4>IT Support & Maintenance</h4>
@@ -71,7 +71,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/security.png" alt="icon" />
 							<h4>Cybersecurity</h4>
@@ -79,7 +79,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/cart.png" alt="icon" />
 							<h4>E-commerce Solutions</h4>
@@ -87,7 +87,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Get Started</a>
 						</div>
 					</div><!-- END COL -->	
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/strategy-new.png" alt="icon" />
 							<h4>Digital Strategy</h4>

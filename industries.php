@@ -23,7 +23,7 @@ include 'header.php';
 		<section class="service_area section-padding">
 			<div class="container">				
 				<div class="row text-center">					
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/brand.png" alt="icon" />
 							<h4>Accounting & Finance</h4>
@@ -31,7 +31,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Discuss Project</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/design.png" alt="icon" />
 							<h4>Retail & E-commerce</h4>
@@ -39,7 +39,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Discuss Project</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/photo.png" alt="icon" />
 							<h4>Hospitality</h4>
@@ -47,7 +47,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Discuss Project</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/strategy.png" alt="icon" />
 							<h4>Logistics</h4>
@@ -55,7 +55,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Discuss Project</a>
 						</div>
 					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/web.png" alt="icon" />
 							<h4>Startups & SMEs</h4>
@@ -63,7 +63,7 @@ include 'header.php';
 							<a class="btn_one" href="contact.php">Discuss Project</a>
 						</div>
 					</div><!-- END COL -->		
-					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 mb-5 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 						<div class="single_service">
 							<img src="assets/img/icon/research.png" alt="icon" />
 							<h4>Service Businesses</h4>
