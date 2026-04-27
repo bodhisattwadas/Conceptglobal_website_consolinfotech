@@ -2,7 +2,7 @@
 		<div class="footer" style="background-image: url(assets/img/bg/footer.png);  background-size:cover;">
 			<div class="container">		
 				<div class="row footer_bg">						
-					<div class="col-lg-3 col-sm-6 col-xs-12">
+					<div class="col-lg-4 col-sm-6 col-xs-12">
 						<div class="footer_logo">
 							<img src="assets/img/logo.png" alt="Concept Global Infotech Logo" style="max-height: 70px; margin-bottom: 20px;">
 							<p>Concept Global Infotech builds practical, scalable, and business-focused technology solutions that help companies grow with confidence.</p>
@@ -18,6 +18,7 @@
 					</div><!--- END COL -->						
 					<div class="col-lg-3 col-sm-6 col-xs-12">
 						<div class="single_footer">
+							<h4>Useful information</h4>
 							<ul>
 								<li><a href="faq.php">Frequently Asked Questions</a></li>
 								<li><a href="privacy.php">Privacy & Security</a></li>
@@ -25,11 +26,6 @@
 								<li><a href="contact.php">Contact Us</a></li>
 								<li><a href="disclaimer.php">Disclaimers</a></li>
 							</ul>
-						</div>
-					</div><!--- END COL -->	
-
-					<div class="col-lg-3 col-sm-6 col-xs-12">
-						<div class="single_footer">
 							<h4>Company</h4>
 							<ul>
 								<li><a href="market-api.php">API Documentation</a></li>
@@ -38,9 +34,18 @@
 						</div>
 					</div><!--- END COL -->	
 
-					<div class="col-lg-3 col-sm-6 col-xs-12">
-						<div class="newsletter-form">
-							<h4>Subscribe for get updates</h4>
+
+					<div class="col-lg-5 col-sm-6 col-xs-12">
+						<div class="single_footer">
+							<h4>Kolkata Office</h4>
+							<p style="font-size: 13px; color: #fff; line-height: 1.4; margin-bottom: 10px;">
+								Chatterjee International Center, 18th Floor, Park Street, Kolkata - 700 071
+							</p>
+							<div style="border-radius: 4px; overflow: hidden; margin-bottom: 25px;">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.6909008323187!2d88.35011569999999!3d22.5532488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770e37f7a67f%3A0xcdfc7d34b2f8f6af!2sChatterjee%20International%20Center%2C%2033A%2C%20Jawaharlal%20Nehru%20Rd%2C%20Park%20Street%20area%2C%20Kolkata%2C%20West%20Bengal%20700071!5e0!3m2!1sen!2sin!4v1777277455408!5m2!1sen!2sin" width="100%" height="180" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+							</div>
+
+							<h4>Subscribe for updates</h4>
 							 <form id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
 								<div class="input-group input-group-lg newsletter">
 									<input type="email" name="EMAIL" class="subscribe__input" placeholder="Email Address">
@@ -53,6 +58,7 @@
 								</div>
 							</form>
 						</div>
+									
 					</div><!--- END COL -->		
 				</div><!--- END ROW -->		
 				<div class="row">

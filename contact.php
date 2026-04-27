@@ -23,24 +23,21 @@ include 'header.php';
 		<section class="address_area section-padding">
 			<div class="container">
 				<div class="row">
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
-					<div class="single_address">
-						<h4>Mumbai HQ</h4>
-						<p class="mr_20">Concept Global Business Center, <br /> Mumbai, India</p>
-						<p><a href="mailto:it@conceptglobal.co.in">it@conceptglobal.co.in</a></p>
-					</div>
-				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
+				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
 					<div class="single_address">
 						<h4>US Roots</h4>
 						<p class="mr_20">Strategic Support & <br /> Client Relations</p>
 						<p><a href="mailto:support@conceptglobal.co.in">support@conceptglobal.co.in</a></p>
 					</div>
 				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
+				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
 					<div class="single_address">
-						<h4>Quick Contact</h4>
-						<p class="mr_20">Available for <br /> Consultations</p>
+						<h4>Kolkata Office</h4>
+						<p class="mr_20">Concept Global Accounting Solution Pvt. Ltd.<br />
+						Chatterjee International Center<br />
+						18th Floor, Suite # A9, Park Street<br />
+						33 A, Jawaharlal Nehru Road<br />
+						Kolkata - 700 071, India</p>
 						<p><a href="mailto:info@conceptglobal.co.in">info@conceptglobal.co.in</a></p>
 					</div>
 				  </div><!--- END COL -->				  
@@ -53,7 +50,7 @@ include 'header.php';
 		<div class="container mb-5">
 			<div class="map-wrapper" style="border: 1px solid #eee; padding: 10px; border-radius: 15px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
 				<div class="map" style="border-radius: 10px; overflow: hidden; height: 450px;">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.957183635167!2d-74.00402768559431!3d40.71895904512855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598a1316e7a7%3A0x47bb20eb6074b3f0!2sNew%20Work%20City%20-%20(CLOSED)!5e0!3m2!1sbn!2sbd!4v1600305497356!5m2!1sbn!2sbd" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.6909008323187!2d88.35011569999999!3d22.5532488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770e37f7a67f%3A0xcdfc7d34b2f8f6af!2sChatterjee%20International%20Center%2C%2033A%2C%20Jawaharlal%20Nehru%20Rd%2C%20Park%20Street%20area%2C%20Kolkata%2C%20West%20Bengal%20700071!5e0!3m2!1sen!2sin!4v1777277455408!5m2!1sen!2sin" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 			</div>
 		</div>	
