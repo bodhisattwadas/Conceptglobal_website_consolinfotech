@@ -9,7 +9,7 @@
 						</div>
 						<div class="social_profile">
 							<ul>
-								<li><a href="#" class="f_facebook"><i class="fa fa-facebook" title="Facebook"></i></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="f_facebook" target="_blank"><i class="fa fa-facebook" title="Facebook"></i></a></li>
 
 								<li><a href="https://www.linkedin.com/company/concept-global-accounting-solutions/" class="f_linkedin" target="_blank"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
 							</ul>

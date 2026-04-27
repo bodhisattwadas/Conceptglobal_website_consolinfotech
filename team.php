@@ -35,7 +35,7 @@ include 'header.php';
 								<p>Marketer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -49,7 +49,7 @@ include 'header.php';
 								<p>Manager</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -63,7 +63,7 @@ include 'header.php';
 								<p>Python Developer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -77,7 +77,7 @@ include 'header.php';
 								<p>Developer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -91,7 +91,7 @@ include 'header.php';
 								<p>Marketer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -105,7 +105,7 @@ include 'header.php';
 								<p>Manager</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -119,7 +119,7 @@ include 'header.php';
 								<p>Python Developer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
@@ -133,7 +133,7 @@ include 'header.php';
 								<p>Developer</p>
 							</div>	
 							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
+								<li><a href="https://www.facebook.com/share/17zHTi1MDL" class="ti-facebook facebook" target="_blank"></a></li>
 								<li><a href="#" class="ti-twitter twitter"></a></li>
 								<li><a href="#" class="ti-google google"></a></li>
 							</ul>						
