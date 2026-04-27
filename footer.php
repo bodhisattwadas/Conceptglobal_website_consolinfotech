@@ -10,9 +10,8 @@
 						<div class="social_profile">
 							<ul>
 								<li><a href="#" class="f_facebook"><i class="fa fa-facebook" title="Facebook"></i></a></li>
-								<li><a href="#" class="f_twitter"><i class="fa fa-youtube" title="Twitter"></i></a></li>
-								<li><a href="#" class="f_instagram"><i class="fa fa-instagram" title="Instagram"></i></a></li>
-								<li><a href="#" class="f_linkedin"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
+
+								<li><a href="https://www.linkedin.com/company/concept-global-accounting-solutions/" class="f_linkedin" target="_blank"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
 							</ul>
 						</div>							
 					</div><!--- END COL -->						
