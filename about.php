@@ -191,7 +191,9 @@ include 'header.php';
 							<div class="col-lg-8 col-sm-6 col-xs-12">
 								<div class="hire_content">
 									<h2>Want to work with us?</h2>
-									<p>Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet consectetur elit.</p>
+									<p>
+										At our IT company, we are always looking to work with people and businesses who want to grow with smart digital solutions. Whether you need web development, software solutions, mobile apps, UI/UX design, or technical support, our team is ready to help. We believe in clear communication, quality work, and long-term partnerships. If you want a trusted team that understands your goals and delivers real results, we would love to work with you. Reach out today and let’s build something great together.
+									</p>
 									<a class="btn_one" href="contact.php">Contact us</a>
 								</div>
 							</div><!-- END COL  -->		
