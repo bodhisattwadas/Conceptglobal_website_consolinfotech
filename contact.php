@@ -25,8 +25,8 @@ include 'header.php';
 				<div class="row">
 				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
 					<div class="single_address">
-						<h4>US Roots</h4>
-						<p class="mr_20">Strategic Support & <br /> Client Relations</p>
+						<h4>USA Office</h4>
+						<p class="mr_20">8991 215th Pl, queens village, NY- 11427</p>
 						<p><a href="mailto:support@conceptglobal.co.in">support@conceptglobal.co.in</a></p>
 					</div>
 				  </div><!--- END COL -->
@@ -48,9 +48,22 @@ include 'header.php';
 		
 		<!-- START MAP -->
 		<div class="container mb-5">
-			<div class="map-wrapper" style="border: 1px solid #eee; padding: 10px; border-radius: 15px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
-				<div class="map" style="border-radius: 10px; overflow: hidden; height: 450px;">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.6909008323187!2d88.35011569999999!3d22.5532488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770e37f7a67f%3A0xcdfc7d34b2f8f6af!2sChatterjee%20International%20Center%2C%2033A%2C%20Jawaharlal%20Nehru%20Rd%2C%20Park%20Street%20area%2C%20Kolkata%2C%20West%20Bengal%20700071!5e0!3m2!1sen!2sin!4v1777277455408!5m2!1sen!2sin" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+			<div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
+					<h4 class="text-center" style="margin-bottom: 15px;">USA Office</h4>
+					<div class="map-wrapper" style="border: 1px solid #eee; padding: 10px; border-radius: 15px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+						<div class="map" style="border-radius: 10px; overflow: hidden; height: 400px;">
+							<iframe src="https://maps.google.com/maps?q=8991+215th+Pl,+Queens+Village,+NY+11427&t=&z=13&ie=UTF8&iwloc=&output=embed" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
+					<h4 class="text-center" style="margin-bottom: 15px;">Kolkata Office</h4>
+					<div class="map-wrapper" style="border: 1px solid #eee; padding: 10px; border-radius: 15px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+						<div class="map" style="border-radius: 10px; overflow: hidden; height: 400px;">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.6909008323187!2d88.35011569999999!3d22.5532488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770e37f7a67f%3A0xcdfc7d34b2f8f6af!2sChatterjee%20International%20Center%2C%2033A%2C%20Jawaharlal%20Nehru%20Rd%2C%20Park%20Street%20area%2C%20Kolkata%2C%20West%20Bengal%20700071!5e0!3m2!1sen!2sin!4v1777277455408!5m2!1sen!2sin" style="border:0; width: 100%; height: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>	
