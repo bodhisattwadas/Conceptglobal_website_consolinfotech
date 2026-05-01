@@ -307,62 +307,7 @@ include 'header.php';
 		</div>
 		<!-- END PROMOTIONAL AREA -->
 		
-		<!-- TESTIMONIALS -->
-		<div class="testimonial_area section-padding">
-			<div class="container">
-				<div class="section-title text-center">
-					<h2>From Our client</h2>
-					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-				</div>				
-				<div class="row">					
-					<div class="col-lg-10 offset-lg-1 col-sm-12 col-xs-12">
-						<div class="row">
-							<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-								<div class="single_testimonial">
-									<div class="testimonial_img">
-										<img src="assets/img/testimonial/1.jpg" alt="testimonial-image" />
-									</div>
-									<p>"Concept Global Infotech transformed our reporting system. We now have real-time visibility into our fleet operations, allowing us to make decisions in minutes that used to take days."</p>
-									<h4>Sarah Jenkins</h4>
-									<h5>CFO, Global Logistics Corp</h5>
-								</div>
-							</div><!-- END COL  -->		
-							<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-								<div class="single_testimonial">
-									<div class="testimonial_img">
-										<img src="assets/img/testimonial/2.jpg" alt="testimonial-image" />
-									</div>
-									<p>"The automation workflows implemented by the team have reduced our manual data entry by 40%. The ROI was apparent within the first three months of deployment."</p>
-									<h4>Marcus Thorne</h4>
-									<h5>Operations Head, Retail Dynamics</h5>
-								</div>
-							</div><!-- END COL  -->		
-							<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-								<div class="single_testimonial">
-									<div class="testimonial_img">
-										<img src="assets/img/testimonial/3.jpg" alt="testimonial-image" />
-									</div>
-									<p>"As a scaling startup, we needed a partner who understood both code and growth. Concept Global provided the cloud strategy that allowed us to scale without downtime."</p>
-									<h4>David Chen</h4>
-									<h5>Founder, TechElevate</h5>
-								</div>
-							</div><!-- END COL  -->		
-							<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-								<div class="single_testimonial">
-									<div class="testimonial_img">
-										<img src="assets/img/testimonial/4.jpg" alt="testimonial-image" />
-									</div>
-									<p>"Our e-commerce platform is now more stable and conversion-focused than ever. The custom customer dashboard has changed how we engage with our loyal buyers."</p>
-									<h4>Elena Rodriguez</h4>
-									<h5>Marketing Director, Artisan Goods</h5>
-								</div>
-							</div><!-- END COL  -->								
-						</div>
-					</div>
-				</div><!-- END ROW -->				
-			</div><!--- END CONTAINER -->
-		</div>
-		<!-- END TESTIMONIALS -->	
+
 
 
 		
